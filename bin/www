@@ -3,7 +3,7 @@
 /**
  * Module dependencies.
  */
-const debug = require('debug')('anycicd:server');
+const debug = require('debug');
 const http = require('http');
 const app = require('../app');
 
